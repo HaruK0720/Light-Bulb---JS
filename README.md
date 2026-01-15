@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- {} の扱いに関するミス！　→　✅ {} の意味と使い方をまとめた！
+  [qiita](https://qiita.com/Haru_K0720/items/5a608ff26abd36e5287f)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/%7B%7D.md)
+
 - 宝くじの当選判定を作ろう！　正規表現 vs slice(-4)
   [qiita](https://qiita.com/Haru_K0720/items/e7f64d31203559408a78)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/slice(-4).md)
