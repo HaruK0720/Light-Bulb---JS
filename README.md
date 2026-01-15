@@ -3,6 +3,6 @@
 
 https://qiita.com/Haru_K0720
 
-Array.from() でループ不要！ (A, B) をN回出力するスマートな方法
+- Array.from() でループ不要！ (A, B) をN回出力するスマートな方法
 [qiita](https://qiita.com/Haru_K0720/items/20dcee39cbd632668cd2)
 [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Array-from().md)
