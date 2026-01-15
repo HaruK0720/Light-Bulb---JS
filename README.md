@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 宝くじの当選判定を作ろう！　正規表現 vs slice(-4)
+  [qiita](https://qiita.com/Haru_K0720/items/e7f64d31203559408a78)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/slice(-4).md)
+
 - 📌 Set と Map の違いまとめ (JavaScript) 　初心者なりにまとめてみた！
   [qiita](https://qiita.com/Haru_K0720/items/b3e866883836723da85e)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Set%26Map.md)
