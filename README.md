@@ -3,9 +3,29 @@
 
 https://qiita.com/Haru_K0720
 
+- 📌 Set と Map の違いまとめ (JavaScript) 　初心者なりにまとめてみた！
+  [qiita](https://qiita.com/Haru_K0720/items/b3e866883836723da85e)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Set%26Map.md)
+
+- indexOf で一発検索！ループ不要の解決法
+  [qiita](https://qiita.com/Haru_K0720/items/998f9b373a4acb674010)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/indexOf.md)
+
+- Setとsizeで単語数を取得！
+  [qiita](https://qiita.com/Haru_K0720/items/2f886d264d8916943e0e)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/size.md)
+
+- 重複単語をスマートに処理！Setで処理を速く！
+  [qiita](https://qiita.com/Haru_K0720/items/bafa6a145d0f3e50c132)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Set.md)
+
+- 九九表を罫線入りで出力 を Array.from()と.repeat() でスマートに！
+  [qiita](https://qiita.com/Haru_K0720/items/5298652aa5eb044876d8)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Array-from()%26repeat().md)
+
 - Array.from() でループ不要！ (A, B) をN回出力するスマートな方法
-[qiita](https://qiita.com/Haru_K0720/items/20dcee39cbd632668cd2)
-[git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Array-from().md)
+  [qiita](https://qiita.com/Haru_K0720/items/20dcee39cbd632668cd2)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Array-from().md)
 
 - toFixed(3) で小数フォーマットを爆速攻略！
   [qiita](https://qiita.com/Haru_K0720/items/d1d0c453e5b1f47bbcf4)
