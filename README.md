@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 配列そのまま渡してない？Math.max()の正しい使い方。スプレッド構文 (...) ってなに？
+  [qiita](https://qiita.com/Haru_K0720/items/e47f3e601e3d0e672a66)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Math-max-SpreadSyntax.md)
+
 - {} の扱いに関するミス！　→　✅ {} の意味と使い方をまとめた！
   [qiita](https://qiita.com/Haru_K0720/items/5a608ff26abd36e5287f)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/%7B%7D.md)
