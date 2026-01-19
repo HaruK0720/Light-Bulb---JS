@@ -3,6 +3,14 @@
 
 https://qiita.com/Haru_K0720
 
+- 英小文字の出現回数【Mapか配列か】charCodeAt()
+  [qiita](https://qiita.com/Haru_K0720/items/bcbb9b32ba1b13c77972)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/charCodeAt().md)
+
+- 動的配列！push/popで配列を自在に操ろう！
+  [qiita](https://qiita.com/Haru_K0720/items/4d147c6972ebdb036bd4)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/push-pop.md)
+
 - 配列そのまま渡してない？Math.max()の正しい使い方。スプレッド構文 (...) ってなに？
   [qiita](https://qiita.com/Haru_K0720/items/e47f3e601e3d0e672a66)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Math-max-SpreadSyntax.md)
