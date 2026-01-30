@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- JavaScriptで超巨大数を扱う！　Number()で桁落ち？ BigInt()も罠？
+  [qiita](https://qiita.com/Haru_K0720/items/3eb4daa9a52bc0e1fb0e)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/BigInt().md)
+
 - 文字列の出現回数をentries()とlocaleCompare()でスッキリ解決！
   [qiita](https://qiita.com/Haru_K0720/items/dbd05ca9e8b3cb00b73c)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/entries()-localeCompare().md)
