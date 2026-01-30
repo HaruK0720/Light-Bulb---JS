@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列の出現回数をentries()とlocaleCompare()でスッキリ解決！
+  [qiita](https://qiita.com/Haru_K0720/items/dbd05ca9e8b3cb00b73c)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/entries()-localeCompare().md)
+
 - 英小文字の出現回数【Mapか配列か】charCodeAt()
   [qiita](https://qiita.com/Haru_K0720/items/bcbb9b32ba1b13c77972)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/charCodeAt().md)
