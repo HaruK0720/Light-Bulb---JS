@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 辞書検索をスマート化する　Map.get() ?? -1
+  [qiita](https://qiita.com/Haru_K0720/items/b2c2b9bb82ffca70809d)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Map.get()%20%3F%3F%20-1.md)
+
 - JavaScriptで超巨大数を扱う！　Number()で桁落ち？ BigInt()も罠？
   [qiita](https://qiita.com/Haru_K0720/items/3eb4daa9a52bc0e1fb0e)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/BigInt().md)
