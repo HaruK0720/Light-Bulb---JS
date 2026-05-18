@@ -1,87 +1,46 @@
-# 工事終了時刻問題！split(), Number(), padStart(),%=剰余代入演算子を活用
+# forEachよりfor-of！フラグ管理でループを最適化
 
-前回に引き続き、Paizaの「パイザ君の家の前の工事」問題に挑戦したときにハマったポイントをシンプルに解説！ちなみに前回の応用？発展？です。ちょっとしたミスで大混乱に…。
+「フラグ管理」問題に挑戦した高2の僕。最初は7の個数をカウントしてたけど、実はもっとシンプルな方法があった！
 
-<br>問題概要
+<br>**問題概要**
+与えられた数列に「7」が含まれているか判定し、1つでもあれば"YES"、なければ"NO" を出力する。
 
-与えられた「開始時刻」と「継続時間」に基づき、工事終了時刻を24時間制で出力する問題です。
-例えば、開始時刻が「15:59」で、継続時間が「0時間1分」なら、出力は「16:00」となる。
-
-入力例
-2
-15:59 0 1
-23:20 1 0
-
-出力例
-16:00
-00:20
-
-<br>**NG例** (初心者がやりがちな (僕の(´;ω;｀) )ミス)
-ミス1: 配列の分割を間違える
+<br>**NG例**（非効率）
 ```js
-let [time, hoursPassed, minutesPassed] = lines.slice(1).split(" "); // ❌ エラー！
-```
-修正:
-```js
-let [time, hoursPassed, minutesPassed] = lines[count].split(" "); // ⭑OK！
-```
-ミス2: Number() を使わずに計算する
-```js
-let newHours = hours + hoursPassed; // ❌ 文字列連結になる
-```
-修正:
-```js
-let newHours = Number(hours) + Number(hoursPassed); // ⭑OK！
-```
-ミス3: padStart() の誤用
-```js
-String(newHours.padStart(2, '0')); // ❌ エラー
-```
-修正:
-```js
-String(newHours).padStart(2, '0'); // ⭑OK！
-```
-
-<br>**正答例**コード
-```js
-const readline = require('readline');
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
-
-const lines = [];
-
-rl.on('line', (line) => {
-    lines.push(line);
-});
-
 rl.on('close', () => {
-    const N = Number(lines[0]);
-    for (let count = 1; count <= N; count++) {
-        let [time, hoursPassed, minutesPassed] = lines[count].split(" ");
-        let [hours, minutes] = time.split(":");
-        
-        let newHours = Number(hours) + Number(hoursPassed);
-        let newMinutes = Number(minutes) + Number(minutesPassed);
-        
-        if (newMinutes >= 60) {
-            newMinutes -= 60;
-            newHours += 1;
-        }
-        
-        newHours %= 24;
-        
-        let formattedTime = `${String(newHours).padStart(2, '0')}:${String(newMinutes).padStart(2, '0')}`;
-        console.log(formattedTime);
-    }
+    let seven = 0;
+    lines.slice(1).map(Number).forEach(num => {
+        if (num === 7) seven++;
+    });
+    console.log(seven > 0 ? "YES" : "NO");
 });
 ```
+❌ 問題点:
+・7 を数える必要はなく、1つ見つかった時点で確定できる
+・forEach は途中で止められず、無駄なループが発生
 
-✅ ループ処理を活用して、1行ずつ処理するのが大事！
 
-✅ %= を使うことで、24時間を超える計算を簡潔に書ける！
+<br>**OK例**（最適化）
+```js
+rl.on('close', () => {
+    let foundSeven = false;
 
-✅ いきなりコードを書かず、設計図（考え方）を整理するとスムーズ！ 
+    for (let num of lines.slice(1).map(Number)) {
+        if (num === 7) {
+            foundSeven = true;
+            break;
+        }
+    }
 
-[僕の失敗談と解決話！](https://paizabeginner.wordpress.com/2025/03/06/paiza%e3%81%a7%e5%9f%ba%e6%9c%ac%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc/) ←これと合わせた方がわかりやすいかも(m´・ω・｀)m ｺﾞﾒﾝ…
+    console.log(foundSeven ? "YES" : "NO");
+});
+```
+✅ 改善点:
+✔ フラグ (foundSeven) で 存在確認のみに 絞る
+✔ break を使い、最短で処理終了
+✔ for-of は forEach と違い、途中でループを抜けられる
+
+<br>まとめ
+「カウント」ではなく「存在確認」ならフラグ管理が最適！
+
+[僕の失敗談と解決話！](https://paizabeginner.wordpress.com/2025/03/07/paiza%e3%81%a7%e5%9f%ba%e6%9c%ac%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%95%e3%83%a9%e3%82%b0%e7%ae%a1%e7%90%86%e3%81%a7%e3%83%ab%e3%83%bc%e3%83%97%e3%82%92%e6%9c%80%e9%81%a9%e5%8c%96%e3%81%97/)
