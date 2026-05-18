@@ -95,6 +95,13 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/ad7421ac3a0fc94c9e25)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/%2B%3D-padStart().md)
 
+- 工事終了時刻問題！split(), Number(), padStart(),%=剰余代入演算子を活用
+  [qiita](https://qiita.com/Haru_K0720/items/391d63548ce88b5e41fd)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/%25%3D.md)
+
+- forEachよりfor-of！フラグ管理でループを最適化
+  [qiita](https://qiita.com/Haru_K0720/items/9eb4c6780bc08fa9a666)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-of-flag.md)
 
 
 
