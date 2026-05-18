@@ -1,4 +1,4 @@
-# 💡Light-Bulb---JS
+# 💡Light-Bulb-JS
 💡をタイトルにつけている自分のQiitaの記事を中心によく振り返って参照する記事の一覧を作成。
 
 https://qiita.com/Haru_K0720
