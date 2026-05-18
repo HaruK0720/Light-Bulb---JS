@@ -103,6 +103,14 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/9eb4c6780bc08fa9a666)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-of-flag.md)
 
+- 配列検索! 配列から最小 index を探す方法！
+  [qiita](https://qiita.com/Haru_K0720/items/5dcd347f55618ed06cc8)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Array-search-min-index.md)
+  
+- りんご vs バナナ！2次元配列ソート？（おまけ：|| 短絡評価（ショートサーキット評価））
+  [qiita](https://qiita.com/Haru_K0720/items/63e470c27352e7c00ca0)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/2DArray-sort-%7C%7C.md)
+
 
 
 
