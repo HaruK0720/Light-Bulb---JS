@@ -87,10 +87,19 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/4324cfc814043834ac31)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Math-min-Spread.md)
 
-- 今風のJavaScriptコードを理解したい！：イテレータ、メソッドチェーン、アロー関数、そして新しい書き方
-  [qiita](https://qiita.com/Haru_K0720/items/3f993a308bb7eae3c1d7)
-  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/iter.md)
-
 - padStart() でゼロ埋めをスマートに！
   [qiita](https://qiita.com/Haru_K0720/items/373a79c6b6038d3b8002)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/padStart().md)
+
+- +=（複合代入演算子） と padStart() で時刻計算をスマートに！
+  [qiita](https://qiita.com/Haru_K0720/items/ad7421ac3a0fc94c9e25)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/%2B%3D-padStart().md)
+
+
+
+
+
+
+- 今風のJavaScriptコードを理解したい！：イテレータ、メソッドチェーン、アロー関数、そして新しい書き方
+  [qiita](https://qiita.com/Haru_K0720/items/3f993a308bb7eae3c1d7)
+  [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/iter.md)
