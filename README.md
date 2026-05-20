@@ -111,6 +111,10 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/63e470c27352e7c00ca0)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/2DArray-sort-%7C%7C.md)
 
+- forループ vs Map！検索を最適化する方法（辞書の基本問題）
+  [qiita](https://qiita.com/Haru_K0720/items/81d5e04a009d1cf71eb1)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-Map-search.md)
+
 
 
 
