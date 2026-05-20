@@ -115,6 +115,10 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/81d5e04a009d1cf71eb1)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-Map-search.md)
 
+- Mapでダメージ管理！（辞書のデータ更新）
+  [qiita](https://qiita.com/Haru_K0720/items/970a2eb1dcb0ca3f0ad5)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-data-update.md)
+
 
 
 
