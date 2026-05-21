@@ -3,6 +3,8 @@
 
 https://qiita.com/Haru_K0720
 
+
+
 - 辞書検索をスマート化する　Map.get() ?? -1
   [qiita](https://qiita.com/Haru_K0720/items/b2c2b9bb82ffca70809d)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Map.get()%20%3F%3F%20-1.md)
@@ -87,6 +89,34 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/4324cfc814043834ac31)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/Math-min-Spread.md)
 
+- for か while か？使い分けは目的に合わせて
+  [qiita](https://qiita.com/Haru_K0720/items/229fd85695ec30df7ce6)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-while.md)
+
+- forループ vs Map！検索を最適化する方法（辞書の基本問題）
+  [qiita](https://qiita.com/Haru_K0720/items/81d5e04a009d1cf71eb1)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-Map-search.md)
+
+- Mapでダメージ管理！（辞書のデータ更新）
+  [qiita](https://qiita.com/Haru_K0720/items/970a2eb1dcb0ca3f0ad5)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-data-update.md)
+
+- Map の辞書順ソートでハマらない方法
+  [qiita](https://qiita.com/Haru_K0720/items/36914961a027c4a2e248)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-dictionary-sort.md)
+  
+- 配列検索! 配列から最小 index を探す方法！
+  [qiita](https://qiita.com/Haru_K0720/items/5dcd347f55618ed06cc8)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Array-search-min-index.md)
+  
+- りんご vs バナナ！2次元配列ソート？（おまけ：|| 短絡評価（ショートサーキット評価））
+  [qiita](https://qiita.com/Haru_K0720/items/63e470c27352e7c00ca0)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/2DArray-sort-%7C%7C.md)
+
+- forEachよりfor-of！フラグ管理でループを最適化
+  [qiita](https://qiita.com/Haru_K0720/items/9eb4c6780bc08fa9a666)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-of-flag.md)
+
 - padStart() でゼロ埋めをスマートに！
   [qiita](https://qiita.com/Haru_K0720/items/373a79c6b6038d3b8002)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/padStart().md)
@@ -98,18 +128,6 @@ https://qiita.com/Haru_K0720
 - 工事終了時刻問題！split(), Number(), padStart(),%=剰余代入演算子を活用
   [qiita](https://qiita.com/Haru_K0720/items/391d63548ce88b5e41fd)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/%25%3D.md)
-
-- forEachよりfor-of！フラグ管理でループを最適化
-  [qiita](https://qiita.com/Haru_K0720/items/9eb4c6780bc08fa9a666)
-  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/for-of-flag.md)
-
-- 配列検索! 配列から最小 index を探す方法！
-  [qiita](https://qiita.com/Haru_K0720/items/5dcd347f55618ed06cc8)
-  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Array-search-min-index.md)
-  
-- りんご vs バナナ！2次元配列ソート？（おまけ：|| 短絡評価（ショートサーキット評価））
-  [qiita](https://qiita.com/Haru_K0720/items/63e470c27352e7c00ca0)
-  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/2DArray-sort-%7C%7C.md)
 
 - forループ vs Map！検索を最適化する方法（辞書の基本問題）
   [qiita](https://qiita.com/Haru_K0720/items/81d5e04a009d1cf71eb1)
@@ -126,3 +144,7 @@ https://qiita.com/Haru_K0720
 - 今風のJavaScriptコードを理解したい！：イテレータ、メソッドチェーン、アロー関数、そして新しい書き方
   [qiita](https://qiita.com/Haru_K0720/items/3f993a308bb7eae3c1d7)
   [git](https://github.com/HaruK0720/Light-Bulb---JS/blob/main/Qiita/iter.md)
+
+
+- 
+
