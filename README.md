@@ -3,6 +3,30 @@
 
 https://qiita.com/Haru_K0720
 
+- NOR 演算の基本 !(A | B) 　　おまけ:| と || の違い
+  [qiita](https://qiita.com/Haru_K0720/items/22bc5a8f113304da17cd)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/NOR.md)
+
+- NAND 演算の基本 !(A & B)
+  [qiita](https://qiita.com/Haru_K0720/items/e7b9d2ab4dae7bfb57ec)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/NAND.md)
+
+- 排他的論理和( XOR )の基本 ^
+  [qiita](https://qiita.com/Haru_K0720/items/8e1faed26b3acaae8920)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/XOR.md)
+
+- 否定( NOT )の基本 ! (+単項プラス)
+  [qiita](https://qiita.com/Haru_K0720/items/a58be21370545dc1eadd)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/NOT-%2B.md)
+
+- 論理和( OR )の基本 |
+  [qiita](https://qiita.com/Haru_K0720/items/83b96b28b7959076df06)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/OR.md)
+
+- 論理積( AND )の基本 &
+  [qiita](https://qiita.com/Haru_K0720/items/139a7d5794644a284446)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/AND.md)
+  
 - .sort()でハマらない方法：Set×BigIntは比較関数必須！
   [qiita](https://qiita.com/Haru_K0720/items/87dd6b87c8cb6c44e169)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/sort-Set-BigInt.md)
