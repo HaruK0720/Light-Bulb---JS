@@ -3,6 +3,14 @@
 
 https://qiita.com/Haru_K0720
 
+- 半加算器
+  [qiita](https://qiita.com/Haru_K0720/items/9cf567c7e729fa220734)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/half-adder.md)
+
+- XNOR 演算の基本 !(A ^ B)
+  [qiita](https://qiita.com/Haru_K0720/items/1032285c3e32229448e2)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/XNOR.md)
+
 - NOR 演算の基本 !(A | B) 　　おまけ:| と || の違い
   [qiita](https://qiita.com/Haru_K0720/items/22bc5a8f113304da17cd)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/NOR.md)
