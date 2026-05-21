@@ -119,9 +119,9 @@ https://qiita.com/Haru_K0720
   [qiita](https://qiita.com/Haru_K0720/items/970a2eb1dcb0ca3f0ad5)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-data-update.md)
 
-
-
-
+- Map の辞書順ソートでハマらない方法
+  [qiita](https://qiita.com/Haru_K0720/items/36914961a027c4a2e248)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-dictionary-sort.md)
 
 - 今風のJavaScriptコードを理解したい！：イテレータ、メソッドチェーン、アロー関数、そして新しい書き方
   [qiita](https://qiita.com/Haru_K0720/items/3f993a308bb7eae3c1d7)
