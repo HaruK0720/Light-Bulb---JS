@@ -3,7 +3,9 @@
 
 https://qiita.com/Haru_K0720
 
-
+- 重複を削除する手法 【比較、Set()】
+  [qiita](https://qiita.com/Haru_K0720/items/676c5b7f6d3cb556bde4)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Duplication-set.md)
 
 - 辞書検索をスマート化する　Map.get() ?? -1
   [qiita](https://qiita.com/Haru_K0720/items/b2c2b9bb82ffca70809d)
