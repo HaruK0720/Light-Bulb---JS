@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- .sort()でハマらない方法：Set×BigIntは比較関数必須！
+  [qiita](https://qiita.com/Haru_K0720/items/87dd6b87c8cb6c44e169)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/sort-Set-BigInt.md)
+
 - 重複を削除する手法 【比較、Set()】
   [qiita](https://qiita.com/Haru_K0720/items/676c5b7f6d3cb556bde4)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Duplication-set.md)
