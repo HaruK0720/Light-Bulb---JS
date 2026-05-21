@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 全加算器
+  [qiita](https://qiita.com/Haru_K0720/items/e0e1b6fe9e8ca466ea97)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/full%20adder.md)
+
 - 半加算器
   [qiita](https://qiita.com/Haru_K0720/items/9cf567c7e729fa220734)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/half-adder.md)
