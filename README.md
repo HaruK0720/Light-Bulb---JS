@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 論理演算を用いた計算　 ド・モルガンの法則
+  [qiita](https://qiita.com/Haru_K0720/items/727ab170475ab88147c9)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/logical%20operations-De%20Morgan's%20Laws.md)
+
 - 全加算器
   [qiita](https://qiita.com/Haru_K0720/items/e0e1b6fe9e8ca466ea97)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/full%20adder.md)
