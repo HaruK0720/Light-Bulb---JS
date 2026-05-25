@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列処理：日時分解　　おまけ：イベントリスナー
+  [qiita](https://qiita.com/Haru_K0720/items/4bf50e7f59580ccf44ed)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/event-listener.md)
+
 - 論理演算を用いた計算　 ド・モルガンの法則
   [qiita](https://qiita.com/Haru_K0720/items/727ab170475ab88147c9)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/logical%20operations-De%20Morgan's%20Laws.md)
