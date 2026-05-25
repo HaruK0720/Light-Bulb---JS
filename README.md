@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 数値判定　isNaNの罠に注意せよ！
+  [qiita](https://qiita.com/Haru_K0720/items/c9878cf9d6ed6e620fee)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/isNaN.md)
+
 - 文字列処理：日時分解　　おまけ：イベントリスナー
   [qiita](https://qiita.com/Haru_K0720/items/4bf50e7f59580ccf44ed)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/event-listener.md)
