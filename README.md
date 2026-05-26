@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- パスワード作成　Mapの柔軟性
+  [qiita](https://qiita.com/Haru_K0720/items/d3ea7eea7e5d4f93a119)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-flexibility.md)
+
 - 数値判定　isNaNの罠に注意せよ！
   [qiita](https://qiita.com/Haru_K0720/items/c9878cf9d6ed6e620fee)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/isNaN.md)
