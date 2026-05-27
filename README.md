@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 数式の計算（多桁）
+  [qiita](https://qiita.com/Haru_K0720/items/ff838ed0d634ff99266e)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Calculating-Equations-multi-Digit.md)
+
 - 数式の計算（ 1 桁）
   [qiita](https://qiita.com/Haru_K0720/items/fa546c63fe8b13077a65)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Calculating-Equations-1-Digit.md)
