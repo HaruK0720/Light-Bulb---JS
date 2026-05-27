@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 数式の計算（ 1 桁）
+  [qiita](https://qiita.com/Haru_K0720/items/fa546c63fe8b13077a65)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Calculating-Equations-1-Digit.md)
+
 - パスワード作成　Mapの柔軟性
   [qiita](https://qiita.com/Haru_K0720/items/d3ea7eea7e5d4f93a119)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Map-flexibility.md)
