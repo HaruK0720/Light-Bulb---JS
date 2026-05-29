@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 巨大な数の足し算（文字列処理）　BigInt禁止でどうする!?
+  [qiita](https://qiita.com/Haru_K0720/items/028ee8c23b8009bac64e)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/string-processing-not-BigInt.md)
+
 - 数式の計算（多桁）
   [qiita](https://qiita.com/Haru_K0720/items/ff838ed0d634ff99266e)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Calculating-Equations-multi-Digit.md)
