@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列の挿入
+  [qiita](https://qiita.com/Haru_K0720/items/534870fe5c2aa411fcbb)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Insert-string.md)
+
 - 巨大な数の足し算（文字列処理）　BigInt禁止でどうする!?
   [qiita](https://qiita.com/Haru_K0720/items/028ee8c23b8009bac64e)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/string-processing-not-BigInt.md)
