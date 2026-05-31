@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列の書き換え
+  [qiita](https://qiita.com/Haru_K0720/items/dd2114d4611b2936918e)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/string-modification.md)
+
 - 文字列の挿入
   [qiita](https://qiita.com/Haru_K0720/items/534870fe5c2aa411fcbb)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Insert-string.md)
