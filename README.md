@@ -1,7 +1,11 @@
 # 💡Light-Bulb-JS
 💡をタイトルにつけている自分のQiitaの記事を中心によく振り返って参照する記事の一覧を作成。
 
-https://qiita.com/Haru_K0720]
+https://qiita.com/Haru_K0720
+
+- 大文字小文字の反転
+  [qiita](https://qiita.com/Haru_K0720/items/0e1381f4a314bc4fc795)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/iter.md)
 
 - 大文字から小文字への変換
   [qiita](https://qiita.com/Haru_K0720/items/16441f1d2c235be92b68)
