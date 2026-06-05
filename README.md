@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列の反転　reverse()
+  [qiita](https://qiita.com/Haru_K0720/items/706da33731e425477f56)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reversing-a-string-reverse().md)
+
 - 大文字小文字の反転
   [qiita](https://qiita.com/Haru_K0720/items/0e1381f4a314bc4fc795)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/toggle-case.md)
