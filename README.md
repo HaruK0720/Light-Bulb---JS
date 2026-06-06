@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 二次元配列の入力
+  [qiita](https://qiita.com/Haru_K0720/items/f424dc225f6e3cbadd44)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inputting%20a%20two-dimensional%20array.md)
+
 - 文字列の反転　reverse()
   [qiita](https://qiita.com/Haru_K0720/items/706da33731e425477f56)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reversing-a-string-reverse().md)
