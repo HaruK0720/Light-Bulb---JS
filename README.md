@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- Inserting Elements: How to Use splice
+  [qiita](https://qiita.com/Haru_K0720/items/d05d32e38bc15e473ec7)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inserting%20Elements%3A%20How%20to%20Use%20splice.md)
+
 - 二次元配列の入力
   [qiita](https://qiita.com/Haru_K0720/items/f424dc225f6e3cbadd44)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inputting%20a%20two-dimensional%20array.md)
