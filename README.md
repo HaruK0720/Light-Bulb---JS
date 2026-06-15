@@ -3,7 +3,11 @@
 
 https://qiita.com/Haru_K0720
 
-- Inserting Elements: How to Use splice
+- なぜsort()で全部変わる？参照・アドレス・コピーをまとめて理解！
+  [qiita](https://qiita.com/Haru_K0720/items/05515d1fe13597e8108a)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reference-address-copy.md)
+
+- 要素の挿入　spliceの使い方
   [qiita](https://qiita.com/Haru_K0720/items/d05d32e38bc15e473ec7)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inserting%20Elements%3A%20How%20to%20Use%20splice.md)
 
