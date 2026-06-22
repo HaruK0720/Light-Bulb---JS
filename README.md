@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 平均以上の数を列挙　reduce()とfilter()
+  [qiita](https://qiita.com/Haru_K0720/items/d22b7f0cb6530d1cba64)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reduce-filter.md)
+
 - なぜsort()で全部変わる？参照・アドレス・コピーをまとめて理解！
   [qiita](https://qiita.com/Haru_K0720/items/05515d1fe13597e8108a)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reference-address-copy.md)
