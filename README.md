@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 二点間の距離(マンハッタン距離)　Math.abs
+  [qiita](https://qiita.com/Haru_K0720/items/4031fec432a3b1d02362)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/math-abs.md)
+
 - 平均以上の数を列挙　reduce()とfilter()
   [qiita](https://qiita.com/Haru_K0720/items/d22b7f0cb6530d1cba64)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reduce-filter.md)
