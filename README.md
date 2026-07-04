@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 条件分岐 × 論理式
+  [qiita](https://qiita.com/Haru_K0720/items/49e374f3e9435c10abfe)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Conditional%20Branching%20%C3%97%20Logical%20Expressions.md)
+
 - 二点間の距離(マンハッタン距離)　Math.abs
   [qiita](https://qiita.com/Haru_K0720/items/4031fec432a3b1d02362)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/math-abs.md)
