@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 偶数・奇数カウント【filterとreduceで攻略】
+  [qiita](https://qiita.com/Haru_K0720/items/c7fbb4d9aca8192339a6)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/filter-reduce.md)
+
 - 条件分岐 × 論理式
   [qiita](https://qiita.com/Haru_K0720/items/49e374f3e9435c10abfe)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Conditional%20Branching%20%C3%97%20Logical%20Expressions.md)
