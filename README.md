@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- FizzBuzz問題 いろんな解き方
+  [qiita](https://qiita.com/Haru_K0720/items/bbc703effd29d406c8c6)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/fizz-buzz.md)
+
 - 偶数・奇数カウント【filterとreduceで攻略】
   [qiita](https://qiita.com/Haru_K0720/items/c7fbb4d9aca8192339a6)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/filter-reduce.md)
