@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 終了判定 2 と while　　おまけ:対数
+  [qiita](https://qiita.com/Haru_K0720/items/3b848d8b38923bd3bf91)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/while-log.md)
+
 - FizzBuzz問題 いろんな解き方
   [qiita](https://qiita.com/Haru_K0720/items/bbc703effd29d406c8c6)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/fizz-buzz.md)
