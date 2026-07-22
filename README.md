@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 10 進数から 2 進数に変換
+  [qiita](https://qiita.com/Haru_K0720/items/34367def89c00629e3a9)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Convert%20from%20Decimal%20to%20Binary.md)
+
 - 終了判定 2 と while　　おまけ:対数
   [qiita](https://qiita.com/Haru_K0720/items/3b848d8b38923bd3bf91)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/while-log.md)
