@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 10 進数から M 進数に変換
+  [qiita](https://qiita.com/Haru_K0720/items/cd3061fb3b82eebd7f0c)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Convert%20from%20base%2010%20to%20base%20M.md)
+
 - 10 進数から 2 進数に変換
   [qiita](https://qiita.com/Haru_K0720/items/34367def89c00629e3a9)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Convert%20from%20Decimal%20to%20Binary.md)
