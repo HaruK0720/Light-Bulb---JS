@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 階乗の末尾に 0 はいくつ付く？ 　正規表現 vs 5の因子
+  [qiita](https://qiita.com/Haru_K0720/items/c43c370ea01b2b5886da)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/regular%20expression%20-%205os.md)
+
 - 10 進数から M 進数に変換
   [qiita](https://qiita.com/Haru_K0720/items/cd3061fb3b82eebd7f0c)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Convert%20from%20base%2010%20to%20base%20M.md)
