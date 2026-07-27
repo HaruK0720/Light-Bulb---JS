@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 加算された数列の最大値　.entries()　-Infinity
+  [qiita](https://qiita.com/Haru_K0720/items/ef91f02e976942bdc120)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/entries()%E3%80%80-Infinity.md)
+
 - 階乗の末尾に 0 はいくつ付く？ 　正規表現 vs 5の因子
   [qiita](https://qiita.com/Haru_K0720/items/c43c370ea01b2b5886da)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/regular%20expression%20-%205os.md)
