@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 1 はどこにある？
+  [qiita](https://qiita.com/Haru_K0720/items/70affb0e19c96ef25b02)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/entries()-index-value.md)
+
 - 加算された数列の最大値　.entries()　-Infinity
   [qiita](https://qiita.com/Haru_K0720/items/ef91f02e976942bdc120)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/entries()%E3%80%80-Infinity.md)
