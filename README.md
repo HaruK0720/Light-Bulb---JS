@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 約数の個数 と 平方根
+  [qiita](https://qiita.com/Haru_K0720/items/b0fb9c4703af6b09d363)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Number%20of%20Divisors%20and%20Square%20Roots..md)
+
 - 1 はどこにある？
   [qiita](https://qiita.com/Haru_K0720/items/70affb0e19c96ef25b02)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/entries()-index-value.md)
