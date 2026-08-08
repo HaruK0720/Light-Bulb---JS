@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 約数の列挙
+  [qiita](https://qiita.com/Haru_K0720/items/4a29cbca462123c7a774)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/numberSort%20unshift.md)
+
 - 約数の個数 と 平方根
   [qiita](https://qiita.com/Haru_K0720/items/b0fb9c4703af6b09d363)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Number%20of%20Divisors%20and%20Square%20Roots..md)
