@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 二重ループ：基本編　積の最大
+  [qiita](https://qiita.com/Haru_K0720/items/610699ba1f24c28982c8)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Double%20Loops%3A%20Basics%E2%80%94Maximizing%20the%20Product.md)
+
 - 約数の列挙
   [qiita](https://qiita.com/Haru_K0720/items/4a29cbca462123c7a774)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/numberSort%20unshift.md)
