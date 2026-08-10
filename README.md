@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 転置行列
+  [qiita](https://qiita.com/Haru_K0720/items/3903804d1c772644338f)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inverse%20Matrix.md)
+
 - 二重ループ：基本編　積の最大
   [qiita](https://qiita.com/Haru_K0720/items/610699ba1f24c28982c8)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Double%20Loops%3A%20Basics%E2%80%94Maximizing%20the%20Product.md)
