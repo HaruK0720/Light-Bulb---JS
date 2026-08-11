@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 素数の個数
+  [qiita](https://qiita.com/Haru_K0720/items/8676cfa8aae818175218)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/The%20Number%20of%20Prime%20Numbers.md)
+
 - 転置行列
   [qiita](https://qiita.com/Haru_K0720/items/3903804d1c772644338f)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Inverse%20Matrix.md)
