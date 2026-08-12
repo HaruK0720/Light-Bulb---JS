@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- log2　因数
+  [qiita](https://qiita.com/Haru_K0720/items/c3c7fd3f72af5d1320d8)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/log2%20factors.md)
+
 - 素数の個数
   [qiita](https://qiita.com/Haru_K0720/items/8676cfa8aae818175218)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/The%20Number%20of%20Prime%20Numbers.md)
