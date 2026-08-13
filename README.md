@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 格子点
+  [qiita](https://qiita.com/Haru_K0720/items/3531aadb9e32da79b805)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/lattice%20point.md)
+
 - log2　因数
   [qiita](https://qiita.com/Haru_K0720/items/c3c7fd3f72af5d1320d8)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/log2%20factors.md)
