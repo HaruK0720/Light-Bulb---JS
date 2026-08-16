@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 野球の審判　switch
+  [qiita](https://qiita.com/Haru_K0720/items/ba1638015aa9e8f168fd)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/switch.md)
+
 - 論理演算子の優先順位
   [qiita](https://qiita.com/Haru_K0720/items/6a9e80593a83ff23716c)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Order%20of%20Operations%20for%20Logical%20Operators.md)
