@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 1を数えよ（2進数）
+  [qiita](https://qiita.com/Haru_K0720/items/55fd00e0e0cd0e364f9a)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/binary.md)
+
 - 野球の審判　switch
   [qiita](https://qiita.com/Haru_K0720/items/ba1638015aa9e8f168fd)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/switch.md)
