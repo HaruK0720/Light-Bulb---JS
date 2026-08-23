@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 文字列の抽出　RegExp・matchAll
+  [qiita](https://qiita.com/Haru_K0720/items/eea8d058404ed74ddf4e)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/RegExp-matchAll.md)
+
 - 1を数えよ（2進数）
   [qiita](https://qiita.com/Haru_K0720/items/55fd00e0e0cd0e364f9a)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/binary.md)
