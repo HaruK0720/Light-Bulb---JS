@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- reduceの使い方（荷物検査）
+  [qiita](https://qiita.com/Haru_K0720/items/a3394425a2b1bcae5d51)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reduce-2.md)
+
 - 文字列の抽出　RegExp・matchAll
   [qiita](https://qiita.com/Haru_K0720/items/eea8d058404ed74ddf4e)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/RegExp-matchAll.md)
