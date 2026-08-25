@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 背の順　　おまけ：オブジェクト
+  [qiita](https://qiita.com/Haru_K0720/items/b5ab0e5b3c8984a38c76)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Object.md)
+
 - reduceの使い方（荷物検査）
   [qiita](https://qiita.com/Haru_K0720/items/a3394425a2b1bcae5d51)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/reduce-2.md)
