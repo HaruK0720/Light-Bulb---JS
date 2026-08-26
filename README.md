@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- クラスって何？（構造体の作成）
+  [qiita](https://qiita.com/Haru_K0720/items/813defd44fa2e2012227)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/What%20Is%20a%20Class%3F%20(Creating%20Structures).md)
+
 - 背の順　　おまけ：オブジェクト
   [qiita](https://qiita.com/Haru_K0720/items/b5ab0e5b3c8984a38c76)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Object.md)
