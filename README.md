@@ -3,6 +3,10 @@
 
 https://qiita.com/Haru_K0720
 
+- 構造体の検索　（続 クラス・インスタンス）
+  [qiita](https://qiita.com/Haru_K0720/items/e50fc092b99b719647bf)
+  [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/Searching%20for%20Structures%20(Continued%3A%20Classes%20and%20Instances).md)
+
 - クラスって何？（構造体の作成）
   [qiita](https://qiita.com/Haru_K0720/items/813defd44fa2e2012227)
   [git](https://github.com/HaruK0720/Light-Bulb-JS/blob/main/Qiita/What%20Is%20a%20Class%3F%20(Creating%20Structures).md)
